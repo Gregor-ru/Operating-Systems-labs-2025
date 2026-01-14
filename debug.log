@@ -1,0 +1,22 @@
+=== Chat Application ===
+Enter username: Host: Creating FIFOs...
+Host: Opening FIFOs...
+Client: Waiting for FIFO...
+Client: Opening FIFOs...
+Host: FIFOs ready
+
+=== Chat Host Started ===
+Username: egor
+Type messages (type '/exit' to quit):
+Client: Connected to FIFOs
+[02:25:22] egor: hello
+[02:25:22] egor_client: Auto #1
+[02:25:27] egor: test 1
+[02:25:37] egor_client: Auto #2
+[02:25:47] egor: test 2
+[02:25:52] egor_client: Auto #3
+[02:26:03] egor_client: Auto #4
+[02:26:18] egor_client: Auto #5
+[02:26:33] egor_client: Auto #6
+Exiting chat...
+Chat terminated.
